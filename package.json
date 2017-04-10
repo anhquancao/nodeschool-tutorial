@@ -1,0 +1,23 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "Learn the basics of node: asynchronous i/o, http. https://nodeschool.io/#workshoppers",
+  "main": "asyncio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoquan95/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoquan95/learnyounode/issues"
+  },
+  "homepage": "https://github.com/caoquan95/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "through2-map": "^3.0.0"
+  }
+}
